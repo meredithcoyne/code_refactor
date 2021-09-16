@@ -1,2 +1,4 @@
-# 01 HTML, CSS, and Git: Code Refactor
-## Development Stages##
+# code_refactor
+Assignment 1
+## Description
+This is my project to increase my knowledge in HTML and CSS
